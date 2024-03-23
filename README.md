@@ -50,7 +50,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> -->
-- **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Seaborn, Plotly, Bokeh.
+- **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Pytorch.
 - **Competitive Programming** - CPP, Python
 - **Web Development** - Javascript, MongoDb, Express, NodeJS
 
