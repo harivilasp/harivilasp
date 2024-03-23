@@ -15,11 +15,11 @@
 
 ## About Me 🚀
 
-- 📫 I'm currently a MSCS student at Northeastern University.
-- 🌱 I'm currently gaining valuable experience as a Software Engineering Intern at Amazon. 
-- 🔭 Excited to embark on a full-time software engineering journey in July 2024. 
+- 📫 I'm currently looking for software engineer jobs immediately available.
+- 🌱 Previously worked as a Software Engineer at Amazon. 
+- 🔭 Excited to embark on a full-time software engineering journey in April 2024. 
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects.
-- 💬 Ask me about Bash, Vim, Docker, NodeJS, Deep Learning, Computer Vision, Data Visualisation, Data Archival.
+- 💬 I have strong fundamentals in distributed systems and algorithms.
 - 😄 Pronouns: He/Him/His
 <!-- - 📫 How to reach me: https://harivilasp.github.io/ -->
 
