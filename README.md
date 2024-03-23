@@ -15,9 +15,8 @@
 
 ## About Me 🚀
 
-- 📫 I'm currently looking for software engineer jobs immediately available.
+- 📫 I'm currently looking for software engineer and data science jobs.
 - 🌱 Previously worked as a Software Engineer at Amazon. 
-- 🔭 Excited to embark on a full-time software engineering journey in April 2024. 
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects.
 - 💬 I have strong fundamentals in distributed systems and algorithms.
 - 😄 Pronouns: He/Him/His
