@@ -62,13 +62,13 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 <!--END_SECTION:waka-->
 
 <!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
-
+<!--
 <table cellpadding="8" cellspacing="8">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harivilasp&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>
 </table>
-
+-->
 
 Cheers,<br />
 Hari<br />
@@ -76,6 +76,5 @@ Hari<br />
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
 
 </div>
