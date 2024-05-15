@@ -57,7 +57,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 ## **Online Profile Links:**
 
 - LinkedIn - [harivilasp](https://www.linkedin.com/in/harivilasp)
-- Leetcode - [harivilasp](https://leetcode.com/harivilasp/)
+
 
 <!--END_SECTION:waka-->
 
