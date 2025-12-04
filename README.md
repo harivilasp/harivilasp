@@ -18,7 +18,6 @@
 - 🌱 Working as a Software Engineer at Amazon. 
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects.
 - 💬 I have strong fundamentals in distributed systems and algorithms.
-- 😄 Pronouns: He/Him/His
 <!-- - 📫 How to reach me: https://harivilasp.github.io/ -->
 
 
