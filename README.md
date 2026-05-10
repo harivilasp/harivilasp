@@ -72,20 +72,6 @@ Software Engineer at **Amazon AWS** building **conversational AI**, **agentic sy
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harivilasp&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harivilasp&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harivilasp&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Connect
 
 - 🌐 **Portfolio:** [harivilasp.github.io](https://harivilasp.github.io/)
